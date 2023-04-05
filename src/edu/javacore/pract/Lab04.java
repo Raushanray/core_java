@@ -5,4 +5,5 @@ public class Lab04 {
 		int a;
 		System.out.println(a);
 	}
+	
 }
