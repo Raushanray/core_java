@@ -8,7 +8,6 @@ public class Lab01 {
 		h1.show();
 		//System.out.println("\"" + "Value" + "\"");
 	}
-
 }
 
 class Hello {
