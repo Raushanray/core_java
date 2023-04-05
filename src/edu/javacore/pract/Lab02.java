@@ -18,5 +18,4 @@ public class Lab02 {
 		h1.show();
 
 	}
-
 }
