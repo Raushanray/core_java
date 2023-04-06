@@ -9,5 +9,4 @@ public class Lab12 {
 		System.out.println(str2);
 		System.out.println(str3);
 	}
-
 }
