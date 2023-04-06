@@ -6,5 +6,4 @@ public class Lab10 {
      int a, byte b;
      System.out.println("value of a  is " + a + " b =" + b);
 	}
-
 }
