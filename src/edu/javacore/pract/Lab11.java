@@ -9,5 +9,4 @@ public class Lab11 {
 	System.out.println(b);
 	System.out.println(c);
 	}
-
 }
